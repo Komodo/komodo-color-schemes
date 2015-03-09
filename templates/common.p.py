@@ -304,7 +304,7 @@ def parseScheme(colors):
             },
             'collab_remote_change': {
                 'alpha': 255,
-                'color': colors["yellow"],
+                'color': colors["baseBackBlend2"],
                 'draw_underneath': True,
                 'style': 7
             },
