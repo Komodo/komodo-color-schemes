@@ -282,7 +282,7 @@ def parseScheme(colors):
         'Colors': {
             'bookmarkColor': colors["baseBackBlend2"],
             'callingLineColor': colors["baseBackBlend1"],
-            'caretFore': colors["commentBlend"],
+            'caretFore': colors["baseFore"],
             'caretLineBack': colors["baseBackBlend1"],
             'changeMarginDeleted': colors["red"],
             'changeMarginInserted': colors["green"],
