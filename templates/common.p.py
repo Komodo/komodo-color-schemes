@@ -385,6 +385,12 @@ def parseScheme(colors):
                 'color': colors["blue"],
                 'draw_underneath': False,
                 'style': 0
+            },
+            'spelling_error': {
+                'alpha': 255,
+                'color': colors["yellow"],
+                'draw_underneath': True,
+                'style': 3
             }
         }
 
