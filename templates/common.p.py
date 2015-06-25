@@ -45,7 +45,7 @@ def parseColors(colors):
 def parseScheme(colors):
     return {
 
-        'Version': 13,
+        'Version': 14,
 
         'Booleans': {
             'caretLineVisible': True,
