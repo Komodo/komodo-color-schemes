@@ -148,6 +148,10 @@ def parseScheme(colors):
             'regex': {
                 'fore': colors["teal"]
             },
+            'match_highlight': {
+                'fore': colors["baseForeBlend1"],
+                'back': colors["baseBackBlend2"]
+            },
             'stderr': {
                 'fore': colors["red"]
             },
