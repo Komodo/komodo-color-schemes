@@ -308,39 +308,39 @@ def parseScheme(colors):
             },
             'collab_remote_change': {
                 'alpha': 255,
-                'color': colors["baseBackBlend2"],
+                'color': colors["blue"],
                 'draw_underneath': True,
-                'style': 7
+                'style': 0
             },
             'collab_remote_cursor_1': {
                 'alpha': 255,
-                'color': colors["yellow"],
+                'color': colors["blue"],
                 'draw_underneath': True,
-                'style': 6
+                'style': 7
             },
             'collab_remote_cursor_2': {
                 'alpha': 255,
                 'color': colors["orange"],
                 'draw_underneath': True,
-                'style': 6
+                'style': 7
             },
             'collab_remote_cursor_3': {
                 'alpha': 255,
                 'color': colors["red"],
                 'draw_underneath': True,
-                'style': 6
+                'style': 7
             },
             'collab_remote_cursor_4': {
                 'alpha': 255,
-                'color': colors["blue"],
+                'color': colors["yellow"],
                 'draw_underneath': True,
-                'style': 6
+                'style': 7
             },
             'collab_remote_cursor_5': {
                 'alpha': 255,
                 'color': colors["teal"],
                 'draw_underneath': True,
-                'style': 6
+                'style': 7
             },
             'find_highlighting': {
                 'alpha': 100,
