@@ -313,40 +313,40 @@ def parseScheme(colors):
                 'style': 0
             },
             'collab_remote_cursor_1': {
-                'alpha': 255,
+                'alpha': 100,
                 'color': colors["blue"],
                 'draw_underneath': True,
-                'style': 7
+                'style': 8
             },
             'collab_remote_cursor_2': {
-                'alpha': 255,
+                'alpha': 100,
                 'color': colors["orange"],
                 'draw_underneath': True,
-                'style': 7
+                'style': 8
             },
             'collab_remote_cursor_3': {
-                'alpha': 255,
+                'alpha': 100,
                 'color': colors["red"],
                 'draw_underneath': True,
-                'style': 7
+                'style': 8
             },
             'collab_remote_cursor_4': {
-                'alpha': 255,
+                'alpha': 100,
                 'color': colors["yellow"],
                 'draw_underneath': True,
-                'style': 7
+                'style': 8
             },
             'collab_remote_cursor_5': {
-                'alpha': 255,
+                'alpha': 100,
                 'color': colors["teal"],
                 'draw_underneath': True,
-                'style': 7
+                'style': 8
             },
             'find_highlighting': {
                 'alpha': 100,
                 'color': colors["baseBackBlend2"],
                 'draw_underneath': True,
-                'style': 7
+                'style': 8
             },
             'linter_error': {
                 'alpha': 255,
@@ -376,7 +376,7 @@ def parseScheme(colors):
                 'alpha': 255,
                 'color': colors["baseBackBlend1"],
                 'draw_underneath': True,
-                'style': 7
+                'style': 8
             },
             'tabstop_pending': {
                 'alpha': 255,
