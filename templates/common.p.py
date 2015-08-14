@@ -45,7 +45,7 @@ def parseColors(colors):
 def parseScheme(colors):
     return {
 
-        'Version': 14,
+        'Version': 15,
 
         'Booleans': {
             'caretLineVisible': True,
@@ -359,12 +359,6 @@ def parseScheme(colors):
                 'color': colors["yellow"],
                 'draw_underneath': True,
                 'style': 13
-            },
-            'multiple_caret_area': {
-                'alpha': 255,
-                'color': colors["blue"],
-                'draw_underneath': False,
-                'style': 6
             },
             'soft_characters': {
                 'alpha': 255,
