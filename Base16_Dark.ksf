@@ -36,7 +36,7 @@ InterfaceStyles = {'border': {'back': 1842204},
  'window': {'back': 1381653,
             'face': '"Lucida Grande", "Segoe UI", "Droid Sans", "Open Sans", sans-serif',
             'fore': 13684944,
-            'size': '0.9rem'},
+            'size': '1rem'},
  'window button close': {'back': 3092356},
  'window button maximize': {'back': 11902826},
  'window button minimize': {'back': 7716852}}
